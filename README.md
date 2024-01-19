@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Agarwal</h1>
 <h3 align="center">Entrepreneur By Profession</h3>
 
-- 🔭 I’m Founder of [TruBranders | India's Best Branding agency](https://www.trubranders.com/)
+- 🔭 I’m Founder of [TruBranders | India's Best Brand Naming agency](https://www.trubranders.com/)
 
-- 🌱 We Provide Brand Naming, Logo Design, **Packaging Design, Web Development**
+- 🌱 We Provide **Brand Naming, Logo Design, Packaging Design, Web Development**
 
 - 👯 Previously known as **Nametales**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.trubranders.com/blog](https://www.trubranders.com/blog)
 
-- Call Us Now **+91 9011920069**
+- Call Us Now [**+91 9011920069**](tel:+919011920069)
 
 - 📫 How to reach me **info@trubranders.com**
 
